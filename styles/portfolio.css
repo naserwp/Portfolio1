@@ -135,3 +135,37 @@ section{
 .resume{
 
 }
+.resume .resume-content{
+    display: flex;
+    gap: 24px;;
+}
+.resume .resume-main-title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 30px;
+}
+.resume .resume-iteam{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .resume-title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.resume .resume-sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume .resume-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
