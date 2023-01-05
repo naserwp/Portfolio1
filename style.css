@@ -15,3 +15,8 @@
     font-size: 20px;
     border: 0;
 }
+.custom-banner-button button.btn-primary.btn-secondary {
+    background: #fff;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+}
